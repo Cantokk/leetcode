@@ -3,7 +3,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 public class LC1091_Shortest_Path_in_Binary_Matrix {
-    
+
     int[] dirX = new int[]{1, 1, 1, -1, -1, -1, 0, 0};
     int[] dirY = new int[]{0, 1, -1, 0, 1, -1, 1, -1};
 
